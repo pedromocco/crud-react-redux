@@ -1,3 +1,4 @@
+// @ts-ignore: Unused variable
 import { configureStore, type Middleware } from "@reduxjs/toolkit";
 import usersReducer from "./users/slice";
 import { toast } from "sonner";
